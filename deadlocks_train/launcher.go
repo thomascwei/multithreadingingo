@@ -3,7 +3,8 @@ package main
 import (
 	. "github.com/cutajarj/multithreadingingo/deadlocks_train/common"
 	//. "github.com/cutajarj/multithreadingingo/deadlocks_train/deadlock"
-	. "github.com/cutajarj/multithreadingingo/deadlocks_train/hierarchy"
+	//. "github.com/cutajarj/multithreadingingo/deadlocks_train/hierarchy"
+	. "github.com/cutajarj/multithreadingingo/deadlocks_train/arbitrator"
 
 	"github.com/hajimehoshi/ebiten/v2"
 	"log"
